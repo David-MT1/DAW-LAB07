@@ -30,7 +30,7 @@ Sistema web desarrollado con Django que permite gestionar Alumnos, Cursos y Nota
 
 ### 1. Clonar el repositorio y entrar a la carpeta
 ```bash
-git clone <url-del-repositorio>
+git clone https://github.com/David-MT1/DAW-LAB07
 cd EjerPropuesto
 ```
 
